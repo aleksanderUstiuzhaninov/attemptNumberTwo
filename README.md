@@ -2,3 +2,4 @@
 training
 say
 Hello
+Farewell
