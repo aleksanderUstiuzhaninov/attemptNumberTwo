@@ -1,6 +1,6 @@
 # attemptNumberTwo
 training
-say
+apple
 Hello
 Farewell
 Goodbuy
